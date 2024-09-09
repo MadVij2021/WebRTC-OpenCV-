@@ -1,5 +1,8 @@
 # LiveStream-WebRTC-Flask-OpenCV
 
+## New version <src_updated> in progress...
+
+## Previous version <src>:
 **My [medium story](https://medium.com/@supersjgk/building-a-live-streaming-app-using-flask-opencv-and-webrtc-8cc8b521fa44) contains the following:**
 * The detailed tutorial on how to build this app from scratch.
 * How to customize the app for your own needs.
