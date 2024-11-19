@@ -11,6 +11,7 @@ cryptography==42.0.8
 dnspython==2.6.1
 Flask==3.0.3
 google-crc32c==1.5.0
+gunicorn
 ifaddr==0.2.0
 itsdangerous==2.2.0
 Jinja2==3.1.4
